@@ -39,7 +39,7 @@ https://ja.aliexpress.com/item/1005010363871111.html
 
 | 機能 | パーツ |
 |------|--------|
-| MCU | STC8G1K17 16pin|
+| MCU | STC8G1K17 16pin　18.432MHz|
 | FM チューナー | RDA5807M |
 | 表示 | 7セグメント LED ×4 |
 | ボタン | 4個（周波数UP/DOWN、音量UP/DOWN） |
