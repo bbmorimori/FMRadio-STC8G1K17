@@ -35,7 +35,7 @@ MIT ライセンスで公開しています。
 
 **STC8G1K17 + RDA5807M FM Radio Board**  
 https://ja.aliexpress.com/item/1005010363871111.html
-<img width="5214" height="5584" alt="pic1" src="https://github.com/user-attachments/assets/fd1a84fc-4354-43d7-917a-e0cfb246e4f9" />
+<img width="512" height="512" alt="pic1" src="https://github.com/user-attachments/assets/fd1a84fc-4354-43d7-917a-e0cfb246e4f9" />
 ### 基板構成
 
 | 機能 | パーツ |
