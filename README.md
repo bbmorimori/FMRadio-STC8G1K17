@@ -46,7 +46,7 @@ https://ja.aliexpress.com/item/1005010363871111.html
 | ボタン | 4個（周波数UP/DOWN、音量UP/DOWN） |
 | I2C | P5.4(SDA), P5.5(SCL) |
 | 桁選択 | P1.0 / P1.1 / P1.6 / P1.7 |
-|SEG | P3.0〜P3.7 |
+|　SEG | P3.0〜P3.7 |
 | 電源 | 5V（基板上で 3.3V に降圧） |
 
 ---
