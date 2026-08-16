@@ -3,7 +3,7 @@
 # STC8G1K17 FM Radio Firmware  
 RDA5807M / 7-Segment LED Display
 
-https://github.com/bbmorimori/FMRadio-STC8G1K17
+[FMRadio-STC8G1K17](https://github.com/bbmorimori/FMRadio-STC8G1K17)
 
 STC8G1K17 と RDA5807M を使用した **完全自作 FM ラジオファームウェア**です。  
 AliExpress で販売されている FM ラジオ基板に対応し、  
