@@ -1,4 +1,4 @@
-
+<meta name="google-site-verification" content="HcKcbeprjq9c-W4Y2lgaPtA0RZWGuCdxvmCY7M7M7wU" />
 
 # STC8G1K17 FM Radio Firmware  
 RDA5807M / 7-Segment LED Display
